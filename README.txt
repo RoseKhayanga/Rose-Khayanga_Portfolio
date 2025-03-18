@@ -1,5 +1,5 @@
 
-[View_Portfolio_here][https://github.com/RoseKhayanga/Rose-Khayanga_Portfolio/settings/pages]
+[View_Portfolio_here][https://https://rosekhayanga.github.io/Rose-Khayanga_Portfolio/]
 
 
 Massively by HTML5 UP
